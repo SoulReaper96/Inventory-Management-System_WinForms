@@ -1,0 +1,35 @@
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.exe
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.deps.json
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.runtimeconfig.json
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.dll
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\Inventory Management System.pdb
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\MetroSet UI.dll
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.csproj.AssemblyReference.cache
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Categories.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Customers.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Login.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.MainMenu.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Orders.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Products.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Properties.Resources.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Users.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.csproj.GenerateResource.cache
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.AssemblyInfoInputs.cache
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.AssemblyInfo.cs
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.csproj.CoreCompileInputs.cache
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventor.6904B46F.Up2Date
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.dll
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\refint\Inventory Management System.dll
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.pdb
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory Management System.genruntimeconfig.cache
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\ref\Inventory Management System.dll
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.Load.resources
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Studies\Inventory Management System\Inventory Management System\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.ViewOrders.resources
+G:\Studies\Inventory Management System\Inventory Management System\obj\Debug\net8.0-windows\Inventory_Management_System.CircularProgressbar.resources
